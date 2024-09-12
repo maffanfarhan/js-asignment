@@ -270,3 +270,63 @@ console.log("Modulus of "+num1+" and "+num2+" is "+(num1%num2));
 // results*=10;
 // results/=2;
 // console.log(results);
+
+
+// ARRAYS STARTED
+answer of Q-1
+// Declare an empty array using JS literal notation to store           
+// student names in future.
+
+// var students_Names = [];
+// console.log(typeof(students_Names));
+
+answer of Q-2
+// Declare an empty array using JS object notation to store             
+// student names in future.
+
+// var students_Names = new Array();
+// console.log(typeof(students_Names));
+
+
+answer of Q-3
+// Declare and initialize a strings array.             
+
+// var arr = ["wajahat", "minhal"]
+// console.log(arr)
+
+answer of Q-4
+// Declare and initialize a numbers array.             
+
+// var num = [10, 7, 4, 5]
+// console.log(num)
+
+answer of Q-5
+// Declare and initialize a boolean array.             
+
+// var bool = [true, false, false, true]
+// console.log(typeof(bool));
+
+answer of Q-6
+// Declare and initialize a mixed array.               
+
+// var mixArr = ["wajahat", 20, true]
+// console.log(mixArr)
+
+
+
+answer of Q-7
+// Declare and Initialize an array and store available mobile           
+// networks in Pakistan.
+
+// var networks = ["jazz", "ufone", "zong", "telenor", "onic"]
+// console.log(networks)
+
+
+answer of Q-8
+// Declare and Initialize an array and store available education            
+// qualifications in Pakistan (e.g. SSC, HSC, BCS, BS, BCOM, MS, 
+// M. Phil., PhD). Show the listed qualifications in your browser 
+// like:
+
+
+// var education = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M.Phil", "PhD"]
